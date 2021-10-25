@@ -1,23 +1,22 @@
-# BBC Hompage
+# BBC Homepage
 
-To get familiar with BEM and Sass... some basic object orientated css and html has been supplied for you to refactor.
+To get familiar with chrome dev tools some basic bugs have been added to the site
+
+Find them and fix them.
 
 ## Run on local dev
 
 Use VSCODE liver server to run a local server.
 
-## 1. BEM
+## Parcel
 
-- Search for opportunities to use BEM and convert sections of the site to logical components in BEM style.
-- Take ownership of the code, there are some bad class names, bad practices and html find them and fix them.
+[https://parceljs.org](https://parceljs.org/)
 
-## 2. Sass
-
-- Convert the project to Sass project
-- Break up the single CSS file ito Sass partials
-- use the [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) for VSCODE.
+You can also use Parcel if you do not want to use VSCODE LIVE SERVER
 
 API used: [newsapi.org](https://newsapi.org)
+
+Signup for your own API key, ask teacher where/how to.
 
 ### Screenshot
 
