@@ -4,7 +4,7 @@ tags
 /.docz/
 .cache
 .parcel-cache
-.dist
+dist
 
 # dependencies
 /node_modules
