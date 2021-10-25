@@ -10,6 +10,8 @@ Use VSCODE liver server to run a local server.
 
 ## Parcel
 
+[https://parceljs.org](https://parceljs.org/)
+
 You can also use Parcel if you do not want to use VSCODE LIVE SERVER
 
 API used: [newsapi.org](https://newsapi.org)
