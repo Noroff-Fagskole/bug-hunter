@@ -58,7 +58,7 @@ body {
   color: var(--text-color);
   font-family: var(--default-font);
   transition: all 0.2s ease-in-out;
-}
+
 
 h1,
 h2,
@@ -67,19 +67,19 @@ h4,
 h5,
 h6 {
   color: var(--header-color);
-}
+
 
 a:link,
 a:visited,
 a:hover,
 a:active {
   text-decoration: none;
-}
+
 
 .app-header {
   background-color: var(--header-bg);
   height: var(--header-height);
-}
+
 
 .app-logo {
   width: 80px;
@@ -88,7 +88,7 @@ a:active {
   background-size: contain;
   height: var(--header-height);
   line-height: var(--header-height);
-}
+
 
 .mobile-nav, label[for='mobile-nav'] {
   position: absolute;
@@ -99,12 +99,12 @@ a:active {
   width: 40px;
   cursor: pointer;
   z-index: 10;
-}
+
 
 .mobile-nav:checked ~ .main-nav {
   transition: all 0.2s linear;
   transform:  translateY(0px);
-}
+
 
 .fas.fa-bars {
   position: absolute;
@@ -113,14 +113,14 @@ a:active {
   color: #FFF;
   font-size: 1.5em;
   z-index: 1;
-}
+
 
 ol,
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
-}
+
 
 button {
   border: none;
@@ -453,7 +453,7 @@ button:focus {
   padding: 1em;
 }
 
-.grid-it {
+.BOOOOMBOOOOMBOOOOMTHISDOESNOTLOOOKRIGHTDOESIT? {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: masonry;
